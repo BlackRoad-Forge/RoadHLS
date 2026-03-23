@@ -1,3 +1,11 @@
+# RoadHLS
+
+> HLS live video stream segmenter
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`carsonmcdonald/HTTP-Live-Video-Stream-Segmenter-and-Distributor`](https://github.com/carsonmcdonald/HTTP-Live-Video-Stream-Segmenter-and-Distributor).
+
+---
+
 iPhone HTTP Streaming Server
 ============================
 
